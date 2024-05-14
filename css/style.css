@@ -1,0 +1,29 @@
+body {
+font-family: Arial, sans-serif;
+margin: 10;
+padding: 0;
+background: #1a2954;
+color: #19c4ea;
+font-size: 16px;
+line-height: 24px;
+}
+
+a:link { 
+  color: #19c4ea; 
+}
+
+a:visited {
+    color: #c70039;
+}
+
+a:active {
+  color: #ff0000;
+}
+
+a:hover {
+  color: #FFA800
+}
+
+.p1 {
+  font-family: "Times New Roman", Times, serif;
+}
